@@ -8,12 +8,13 @@ The Global Supermarket Analysis Dashboard is a tool of the reflection and ideolo
 # Steps to be followed 
 
 Step 1: Load data into Power BI Desktop, dataset is a csv file.
-![Screenshot 2024-03-21 000150](https://github.com/Aditip904/Power_BI_Dashboard_Project/assets/112500658/b920d7c0-c798-421a-9390-f46174f16c07)
-
+![Screenshot 2024-03-21 001119](https://github.com/Aditip904/Power_BI_Dashboard_Project/assets/112500658/15a79002-2436-4033-a473-a105049be7b6)
+ 
 Step 2: Open power query editor & in view tab under Data preview section, check "column Sales", "column Quantity", "column Return"  & "column Delivery" options for Cards.
 ![Screenshot 2024-03-21 000325](https://github.com/Aditip904/Power_BI_Dashboard_Project/assets/112500658/24239bf4-9923-409b-98f1-943862818308)
 
 Step 3: Also since by default, profile will be opened only for 48700 rows so you need to select "column profiling based on entire dataset".
+![Screenshot 2024-03-21 000150](https://github.com/Aditip904/Power_BI_Dashboard_Project/assets/112500658/b920d7c0-c798-421a-9390-f46174f16c07)
 
 Step 4: It was observed that there are in the table "Return" as it's Headers to done as first Row from Transform data & all other data are cleaned .
 
