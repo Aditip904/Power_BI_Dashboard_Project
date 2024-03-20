@@ -26,7 +26,7 @@ Step 7: Since the data contains various ratings, thus in order to represent sale
 Step 8: Visual filters (Slicers) were added for four fields named "2012", "2013", "2014" & "2015".
 
 Step 9: Two card visuals were added to the canvas, one representing sum of profit in thousands & other representing the loss in the products. Using Bar Chart filter from the visuals. Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.
-![Screenshot 2024-03-21 000325](https://github.com/Aditip904/Power_BI_Dashboard_Project/assets/112500658/24239bf4-9923-409b-98f1-943862818308)
+![Screenshot 2024-03-21 000346](https://github.com/Aditip904/Power_BI_Dashboard_Project/assets/112500658/932f59a0-b8be-42fc-aa8b-e71006c8f54e)
  
 Step 10. A bar chart was also added to the report design area representing the number of Top Customers . While creating this visual, field named "Gender" was also added to the Legends bucket.
 ![Screenshot 2024-03-21 000405](https://github.com/Aditip904/Power_BI_Dashboard_Project/assets/112500658/61c0c2f0-5b08-4257-ae00-1454dc9037bf)
