@@ -20,4 +20,14 @@ Step 7: Since the data contains various ratings, thus in order to represent sale
 
 Step 8: Visual filters (Slicers) were added for four fields named "2012", "2013", "2014" & "2015".
 
-Step 9: Two card visuals were added to the canvas, one representing sum of profit in thousands & other representing the loss in the products. Using Bar Chart filter from the visuals.
+Step 9: Two card visuals were added to the canvas, one representing sum of profit in thousands & other representing the loss in the products. Using Bar Chart filter from the visuals. Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.
+ 
+Step 10. A bar chart was also added to the report design area representing the number of Top Customers . While creating this visual, field named "Gender" was also added to the Legends bucket.
+
+• Step 11: Ratings Visual was used to represent different ratings mentioned below.
+
+(a) Baggage Handling
+
+(b) Check-in Services
+
+(c) Cleanliness
