@@ -1,5 +1,5 @@
 # Customers_Dashboard
-![Uploading Screenshot 2024-03-20 233744.png…]()
+![Screenshot 2024-03-20 233744](https://github.com/Aditip904/Power_BI_Dashboard_Project/assets/112500658/73123fa5-f46d-4e16-bf45-d2e48374c96b)
 
 
 # Problem Statement
@@ -37,5 +37,4 @@ Step 10. A bar chart was also added to the report design area representing the n
 
 
 The final look of the Dashboard is as follows
-![Uploading Screenshot 2024-03-20 233744.png…]()
-
+![Screenshot 2024-03-20 233744](https://github.com/Aditip904/Power_BI_Dashboard_Project/assets/112500658/73123fa5-f46d-4e16-bf45-d2e48374c96b)
