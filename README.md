@@ -2,7 +2,7 @@
 The Global Supermarket Analysis Dashboard is a tool of the reflection and ideology that give early notions about the industry, which looks at global supermarket chains. It depicts the main underlying statistical figures like the sales turnover, profits, number of customers coming in, and the damage in products using diverse presentations including line charts and bar graphs. Clients now have the flexibility of seeing the market supply and demand analysis; figure out how the demand and expansion are fast and trade on them. The panel boasts for data comparison with peers and industry standards, facilitating the process of defining efficient procedures and the right approach. It is a unifying system of a quantitative metric composed with a detailed social media sentiment and customer experience assessment. Consequently, you get a well-rounded view of the market dynamics. For the most part, the tool is useful for the executives, the marketers and analysts who obtain the necessary information when they make decision along with the competition among those stores in the market.
 
 
-# Steps to followed 
+# Steps to be followed 
 
 Step 1: Load data into Power BI Desktop, dataset is a csv file.
 
