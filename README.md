@@ -1,5 +1,5 @@
 # Customers_Dashboard
-![Uploading image_2024-03-20_233901890.png…]()
+![Uploading Screenshot 2024-03-20 233744.png…]()
 
 
 # Problem Statement
@@ -37,6 +37,5 @@ Step 10. A bar chart was also added to the report design area representing the n
 
 
 The final look of the Dashboard is as follows
-![Uploading image_2024-03-20_233901890.png…]()
-
+![Uploading Screenshot 2024-03-20 233744.png…]()
 
